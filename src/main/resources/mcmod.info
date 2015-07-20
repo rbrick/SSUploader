@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "ssuploader",
+    "name": "SSUploader",
+    "description": "Allows you to upload screenshots to Imgur.",
+    "version": "0.0.1",
+    "mcversion": "$mcversion",
+    "url": "http://rbrickis.me"
+  }
+]
